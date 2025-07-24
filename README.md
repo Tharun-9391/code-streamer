@@ -57,15 +57,7 @@ npm run dev  # or npm start if you're using React or Vite
 
 ---
 
-## 📷 Screenshots
 
-_Add screenshots or GIFs of your project UI below:_
-
-| Desktop Version | Mobile Version |
-|------------------|----------------|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
-
----
 
 ## 🌐 Deployment
 
