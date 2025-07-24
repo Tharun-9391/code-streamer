@@ -96,9 +96,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 💬 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tharun-teja/)  
-- 🐙 [GitHub](https://github.com/tharun-teja)  
-- ✉️ Email: tharun@example.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/chanda-tharunteja-277611258)  
+- 🐙 [GitHub](https://github.com/Tharun-9391)  
+- ✉️ Email: chandatharunteja1@gmail.com  
 
 ---
 
